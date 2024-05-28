@@ -1,6 +1,6 @@
 #suicidios_neiva
 
-este dataset contiene información de suicidios en el municipio de Neiva - Colombia entre enero de 2021 y diciembre de 2022
+este dataset contiene información de suicidios en el municipio de Neiva - Colombia entre enero de 2012 y diciembre de 2022
 
 ## Estructura del Dataset
 
